@@ -35,6 +35,9 @@ PYTHONPATH="${VIRTUAL_ENV}/lib/python3.8/site-packages"
 REPLIT_POETRY_PYPI_REPOSITORY="https://package-proxy.replit.com/pypi/"
 MPLBACKEND="TkAgg"
 POETRY_CACHE_DIR="${HOME}/${REPL_SLUG}/.cache/pypoetry"
+ELEPHANT_HOST="balarama.db.elephantsql.com"
+ELEPHANT_NAME="mrakulcj"
+ELEPHANT_PASSWORD="M3osZkcGXabY_IiDu5JuC_ua9R2wieJf"
 
 # Enable unit tests. This is only supported for a few languages.
 [unitTest]
